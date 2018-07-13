@@ -1,18 +1,18 @@
-<img src="https://raw.githubusercontent.com/Rsimetti/IntroRCTM/master/logoRCTM.png" witdth="150px" height="155" align="right" display="block">
+<img src="https://raw.githubusercontent.com/Rsimetti/IntroRCTM/master/logoRCTM.png" witdth="100px" height="103" align="right">
 
 Análise de dados para C&T da madeira com o R
 ==================
 
-Minicurso oferecido no dia 17 de julho de 2018 na Universidade Federal de Lavras pelo [Núcleo de Estudos em Madeira](http://www.nucleoestudo.ufla.br/nemad/)
+Minicurso oferecido no dia 17 de julho de 2018 na **Universidade Federal de Lavras** pelo [Núcleo de Estudos em Madeira](http://www.nucleoestudo.ufla.br/nemad/)
 
 Para o desenvolvimento do curso será necessário um computador com:
 
 1. O [programa R](https://cran.r-project.org/) instalado, preferencialmente com versão 3.3.2 ou superior 
 2. A inteface [RStudio](https://www.rstudio.com/products/rstudio/download/) instalada, versão 1.1.383 ou superior
 
-Tragam extensões e adaptadores!!!
+**Tragam extensões e adaptadores!!!**
 
-## Programação
+# Programação
 - Introdução ao ambiente do R
 - Tipos de variáveis 
 - Funções matemáticas básicas
@@ -23,5 +23,5 @@ Tragam extensões e adaptadores!!!
 - Gráficos básicos
 - Aplicações em C&T da madeira
 
-## Dúvidas ou sugestões
+# Dúvidas ou sugestões
 Rodrigo Simetti (`rodrigo.simetti@gmail.com`)
